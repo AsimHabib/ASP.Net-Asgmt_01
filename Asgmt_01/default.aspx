@@ -267,12 +267,9 @@
                         </div>
                            <div>
                             <asp:Label ID="lblLost" runat="server" />
-                        </div>
-                             <div>
-                            <asp:Label ID="lblWinPct" runat="server" />
-                        </div>
+                        </div>                       
                          <div>
-                            <asp:Label ID="lblWinPercentage" runat="server" />
+                            <asp:Label ID="lblWinPct" runat="server" />
                         </div>
                            <div>
                             <asp:Label ID="lblTotalScored" runat="server" />

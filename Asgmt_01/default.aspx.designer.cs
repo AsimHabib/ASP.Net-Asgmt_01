@@ -490,15 +490,6 @@ namespace Asgmt_01 {
         protected global::System.Web.UI.WebControls.Label lblWinPct;
         
         /// <summary>
-        /// lblWinPercentage control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblWinPercentage;
-        
-        /// <summary>
         /// lblTotalScored control.
         /// </summary>
         /// <remarks>
