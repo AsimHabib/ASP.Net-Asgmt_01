@@ -74,45 +74,9 @@ namespace Asgmt_01
                 }
             }
 
-            // Using conditional statements
-            /*
-            if (int.Parse(rblResult1.SelectedItem.Value) == 1) 
-            {
-                gamesWon++;
-            }
-            else
-            {
-                gamesLost++;
-            }
-
-            if (int.Parse(rblResult2.SelectedItem.Value) == 1)
-            {
-                gamesWon++;
-            }
-            else
-            {
-                gamesLost++;
-            }
-            if (int.Parse(rblResult3.SelectedItem.Value) == 1)
-            {
-                gamesWon++;
-            }
-            else
-            {
-                gamesLost++;
-            }
-            if (int.Parse(rblResult4.SelectedItem.Value) == 1)
-            {
-                gamesWon++;
-            }
-            else
-            {
-                gamesLost++;
-            }
-            */
-
+           
             // Calculate the Percentage
-            int winPct = (gamesWon * 100) / 4;
+           int winPct = (gamesWon * 100) / 4;
 
             //Display the values as String
             showResult.Visible = true; // Make Bootstrap Well visible
